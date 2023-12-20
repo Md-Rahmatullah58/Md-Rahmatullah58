@@ -8,9 +8,11 @@
 - 🌱 I’m currently learning **Full Stack Networking (like CCNA, CCNP, CSA, LINUX, AZURE, HACKING etc. )**
 
 - 📫 How to reach me**
- <a href="http://127.0.0.1:5500/mail.html">rahmatullahmd156@gmail.com</a>
+  <br>
+  
+<p>This Is My email Id <a href="http://127.0.0.1:5500/mail.html">rahmatullahmd156@gmail.com</a></p>
 
-<a href="https://api.whatsapp.com/send/?phone=%2B917667948886&text&type=phone_number&app_absent=0">7667948886</a>
+<p>This Is My Mobile Number<a href="https://api.whatsapp.com/send/?phone=%2B917667948886&text&type=phone_number&app_absent=0">7667948886</a></p>
 
 - ⚡ Fun fact **I am funny😍 **
 
