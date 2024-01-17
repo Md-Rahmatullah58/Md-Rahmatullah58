@@ -27,7 +27,7 @@
 <a href="https://twitter.com/MdRahmatullah58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MdRahmatullah" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010376862899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MD Rahmatullah" height="30" width="40" /></a>
 <a href="https://instagram.com/itz__rahmat__imrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz__rahmat__imrs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mdrahmatullah-fx6bz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mdrahmatullah-fx6bz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCC3ODS4RqEllji67b0zLEkA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mdrahmatullah-fx6bz" height="30" width="40" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
