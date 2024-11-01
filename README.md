@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatgithub58&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatgithub58" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Networking (like CCNA, CCNP, CSA, LINUX, AZURE, HACKING etc. )**
+- 🌱 I’m currently learning ** MERN Full Stack Developer (like MongoDB, Express JS, React JS, Node JS )**
 
 - 📫 How to reach me**
   <br>
